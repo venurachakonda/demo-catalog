@@ -2,7 +2,7 @@
     "services": [
         {
             "id": "simulator",
-            "source_repository": "https://github.com/newrelic/demo-simulator.git",
+            "source_repository": "https://github.com/venurachakonda/demo-simulator.git",
             "deploy_script_path": "deploy/linux/roles",
             "port": 5000,
             "destinations": [
